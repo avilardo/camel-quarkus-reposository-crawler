@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.vilardo.demo.quarkus</groupId>
-  <artifactId>camel-quarkus-azure-devops-repos-crawler</artifactId>
+  <artifactId>camel-quarkus-repository-crawler</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   
   <properties>
